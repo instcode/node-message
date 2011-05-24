@@ -1,0 +1,6 @@
+{ "name" : "node-message"
+, "description" : "NodeJS Message"
+, "author" : "Khoa Nguyen <instcode@gmail.com>"
+, "version" : "0.0.1"
+, "main" : "./lib/njms"
+}
