@@ -1,6 +1,6 @@
 # node-message
 
-A node.js instant messaging library that makes use of [web-socket-server](git://github.com/miksago/node-websocket-server) and [web-socket-js](git://github.com/gimite/web-socket-js).
+A node.js instant messaging library that makes use of [web-socket-server](http://github.com/miksago/node-websocket-server) and [web-socket-js](http://github.com/gimite/web-socket-js).
 
 ## Development Status
 
