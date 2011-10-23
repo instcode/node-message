@@ -30,7 +30,7 @@ A user data object which contains both offline data & live connections.
 
 ### v0.0.1
 
-* Not released yet but when, it will be [here](https://github.com/instcode/node-mysql/commits/v0.0.1).
+* Not released yet but when, it will be [here](https://github.com/instcode/node-message/commits/v0.0.1).
 
 ## License
 
